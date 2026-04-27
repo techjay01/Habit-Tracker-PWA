@@ -2,7 +2,7 @@
 
 **Author:** Mbamara Joshua - Jay Tech
 **GitHub:** https://github.com/techjay01  
-**Live Demo:** https://your-deployment-url.vercel.app 
+**Live Demo:** https://jay-habit-tracker.vercel.app 
 
 ---
 
@@ -431,7 +431,7 @@ The full HTML report is available in the `coverage/` directory — open `coverag
 | `storage.ts` | 100% | 86.66% | 100% | 100% |
 | `streaks.ts` | 100% | 100% | 100% | 100% |
 | `validators.ts` | 100% | 100% | 100% | 100% |
-| **All files** | **100%** | **92.45%** | **100%** | **100%** |
+| **All files** | **100%** | **93.33%** | **100%** | **100%** |
 
 > The `storage.ts` branch gap (86.66%) is from `typeof window === 'undefined'` guards that only trigger during server-side rendering — not reachable in a jsdom test environment. All other files are at 100%.
 
@@ -445,4 +445,4 @@ The full HTML report is available in the `coverage/` directory — open `coverag
 |---|---|
 | **Name** | Mbamara Joshua - Jay Tech |
 | **GitHub** | https://github.com/techjay01 |
-| **Live Demo** | https://your-deployment-url.vercel.app |
+| **Live Demo** | https://jay-habit-tracker.vercel.app |

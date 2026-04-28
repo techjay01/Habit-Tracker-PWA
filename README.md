@@ -123,7 +123,7 @@ A JSON array of registered users:
 ]
 ```
 
-> Passwords are stored in plain text. This is intentional for this stage — it keeps the implementation front-end-only, local, and deterministic without requiring hashing infrastructure.
+> Passwords are stored in plain text. This is intentional for this stage as it keeps the implementation front-end-only, local, and deterministic without requiring hashing infrastructure.
 
 ### `habit-tracker-session`
 
